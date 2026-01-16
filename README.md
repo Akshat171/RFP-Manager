@@ -1,4 +1,4 @@
-# Aerctin - AI-Powered RFP Management Platform
+# AI-Powered RFP Management Platform
 
 An intelligent procurement platform that automates Request for Proposal (RFP) creation, vendor matching, email distribution, and proposal evaluation using AI.
 
