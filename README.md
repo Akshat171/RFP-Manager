@@ -1202,7 +1202,7 @@ This project is built for educational purposes as part of a coding assessment.
 
 **Akshat**
 Backend Developer
-Email: your-email@example.com (replace with your email)
+Email: akshatjangir1710@gmail.com
 
 ---
 
